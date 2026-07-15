@@ -22,7 +22,7 @@ const aditya = {
     frontend: ["React", "Next.js", "Vite", "HTML", "CSS", "JavaScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "Socket.io", "JWT", "bcrypt"],
     database: ["MongoDB", "PostgreSQL", "MySQL", "Prisma", "Mongoose"],
-    tools: ["Git", "GitHub", "Cloudinary", "Nodemailer"],
+    tools: ["Git", "GitHub", "Docker", "GitHub Actions (CI/CD)", "Socket.io", "Cloudinary", "Nodemailer"],
   },
   launchedProjects: [
     "Property Rental Platform",
@@ -41,18 +41,26 @@ const aditya = {
 
 A real-time property rental, maintenance & amenity management platform built as a full-stack web application. Designed to digitalize and modernize rental operations for both tenants and property owners.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adity322&repo=project-rental-platform&theme=nord&border_color=10b981&title_color=10b981&text_color=c9d1d9&icon_color=10b981" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adity322&repo=project-rental-platform&theme=nord&border_color=10b981&title_color=10b981&text_color=c9d1d9&icon_color=10b981" />
 
-| Layer | Technology |
-|---|---|
-| Frontend | React.js + Vite |
-| Styling | Tailwind CSS |
-| Backend | Node.js + Express.js |
-| Database | MongoDB |
-| Real-time | Socket.io |
-| Authentication | JWT + bcrypt |
-| Deployment (FE) | Vercel |
-| Deployment (BE) | Render |
+**Frontend**
+![React](https://img.shields.io/badge/React.js-10b981?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-10b981?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-10b981?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+![Node](https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-10b981?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-10b981?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-10b981?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-10b981?style=for-the-badge&logo=letsencrypt&logoColor=white)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Deployment**
+![Vercel](https://img.shields.io/badge/Vercel_(FE)-10b981?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render_(BE)-10b981?style=for-the-badge&logo=render&logoColor=white)
 
 🔗 [Live](https://project-rental-platform.vercel.app) · 💻 [Code](https://github.com/Adity322/project-rental-platform)
 
@@ -62,24 +70,33 @@ A real-time property rental, maintenance & amenity management platform built as 
 
 A full-stack web application that connects elderly patients and their families with verified, trained healthcare professionals for in-home care services.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adity322&repo=ElderCare-Plus&theme=nord&border_color=10b981&title_color=10b981&text_color=c9d1d9&icon_color=10b981" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Adity322&repo=ElderCare-Plus&theme=nord&border_color=10b981&title_color=10b981&text_color=c9d1d9&icon_color=10b981" />
 
-| Layer | Technology |
-|---|---|
-| Frontend | React.js + Vite (Component-based SPA) |
-| Styling | Tailwind CSS |
-| Routing | React Router v6 |
-| API Calls | Axios |
-| Real-time | Socket.io Client |
-| Backend | Node.js + Express.js (REST API) |
-| Database | MongoDB + Mongoose |
-| Authentication | JWT + bcrypt |
-| Real-time (server) | Socket.io |
-| File/Image Storage | Cloudinary |
-| Emails | Nodemailer |
-| Deployment (FE) | Vercel |
-| Deployment (BE) | Render |
-| Cloud DB | MongoDB Atlas |
+**Frontend**
+![React](https://img.shields.io/badge/React.js-10b981?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-10b981?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-10b981?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router_v6-10b981?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-10b981?style=for-the-badge&logo=axios&logoColor=white)
+![Socket.io Client](https://img.shields.io/badge/Socket.io_Client-10b981?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+**Backend**
+![Node](https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-10b981?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-10b981?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-10b981?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-10b981?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-10b981?style=for-the-badge&logo=gmail&logoColor=white)
+
+**Database & Storage**
+![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-10b981?style=for-the-badge&logo=mongoose&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-10b981?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+**Deployment**
+![Vercel](https://img.shields.io/badge/Vercel_(FE)-10b981?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render_(BE)-10b981?style=for-the-badge&logo=render&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-10b981?style=for-the-badge&logo=mongodb&logoColor=white)
 
 🔗 [Live](https://elder-care-plus-nx65.vercel.app) · 💻 [Code](https://github.com/Adity322/ElderCare-Plus)
 
@@ -89,19 +106,33 @@ A full-stack web application that connects elderly patients and their families w
 
 **Languages & Frontend**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs" />
+![JavaScript](https://img.shields.io/badge/JavaScript-10b981?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-10b981?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-10b981?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-10b981?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-10b981?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+![Node.js](https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-10b981?style=for-the-badge&logo=express&logoColor=white)
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10b981?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-10b981?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-10b981?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Dev Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github" />
+![Git](https://img.shields.io/badge/Git-10b981?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-10b981?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-10b981?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-10b981?style=for-the-badge&logo=githubactions&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-10b981?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-10b981?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-10b981?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
@@ -109,8 +140,8 @@ A full-stack web application that connects elderly patients and their families w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adity322&show_icons=true&theme=nord&border_color=10b981&title_color=10b981&text_color=c9d1d9&icon_color=10b981" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adity322&layout=compact&theme=nord&border_color=10b981&title_color=10b981&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Adity322&show_icons=true&theme=nord&border_color=10b981&title_color=10b981&text_color=c9d1d9&icon_color=10b981" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adity322&layout=compact&theme=nord&border_color=10b981&title_color=10b981&text_color=c9d1d9" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=Adity322&theme=nord&border=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981" width="70%" />
 
